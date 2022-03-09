@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joerybarczyk
 - 👀 I’m interested in web development!
-- 🌱 I’m currently learning HTML/CSS, JavaScript, React.js, AWS
+- 🌱 I’m currently learning HTML/CSS, JavaScript, and Python!
 
 <!---
 joerybarczyk/joerybarczyk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
