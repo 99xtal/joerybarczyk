@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joerybarczyk
-- 👀 I’m interested in everything web development!
+- 👀 I’m interested in writing efficient and beautiful code, building web APIs, creating awesome applications, and everything web development!
 - 🌱 I’m currently learning Python, HTML/CSS, JavaScript, C# and more!
 
 <!---
